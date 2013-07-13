@@ -1,4 +1,4 @@
-Jack-Ripper
+Jack-the-Ripper
 ===========
 
 Jack-Ripper is a small scale Search Engine, which can 
