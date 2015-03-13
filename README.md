@@ -1,7 +1,7 @@
-Jack-the-Ripper
+SearchEngine
 ===========
 
-Jack-Ripper is a small scale Search Engine, which can 
+SearchEngine is a small scale Search Engine, which can 
 
   - Crawl websites and Index (Crawler.cs)
   - Search the queries (Searcher.cs)
